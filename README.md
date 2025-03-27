@@ -10,7 +10,7 @@ This project, completed at Apziva, focuses on analyzing customer survey data to 
 - **`visualizations/`** – Plots and graphs showcasing key findings.  
 
 ## **Methods and Approach**  
-- **Data Preprocessing**: Handled missing values, encoded categorical features, and performed feature scaling.  
+- **Data Preprocessing**: Checked for null values, descriptive statistics, and analysed value counts.  
 - **Exploratory Data Analysis (EDA)**: Visualized survey responses to identify patterns and correlations.  
 - **Feature Engineering**: Selected key attributes influencing customer happiness.  
 - **Modeling**: Implemented machine learning algorithms (e.g., Random Forest, XGBoost, Logistic Regression) to predict customer satisfaction levels.  
